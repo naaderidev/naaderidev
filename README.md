@@ -1,14 +1,14 @@
 # Hello, I'm @naaderidev 👋  
 
 ## About Me 
-- 👀 I’m interested in javascript coding
-- 🌱 I’m currently learning Typescript and nodejs
-- 💞️ I’m looking to collaborate on MERN stack development projects
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning C# and ASP.NET
+- 💞️ I’m looking to collaborate on full stack development projects
 
 ## Skills  
 - **Front-end**: HTML, CSS, JavaScript, React.js, Next.js, TailwindCSS, Typescript & ...
-- **Back-end**: Node.js, Express.js, MongoDB  
-- **Tools**: Git, GitHub, Visual Studio Code, Postman
+- **Back-end**: Node.js, Express.js, MongoDB, C#, SQL Server  
+- **Tools**: Git, GitHub, Visual Studio Code, Postman, Visual Studio, MongoDB, SQL Server, ...
 
 ## Get in Touch  
 You can reach me through the following channels:  
